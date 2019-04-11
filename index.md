@@ -196,12 +196,15 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% if site.carpentry == "swc" %} 
 <p><a href="{{ site.swc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.swc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.co.uk/r/V87XVNJ">Post-workshop Survey Elixir</a></p>
 {% elsif site.carpentry == "dc" %}
 <p><a href="{{ site.dc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.dc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.co.uk/r/V87XVNJ">Post-workshop Survey Elixir</a></p>
 {% elsif site.carpentry == "lc" %}
 <p><a href="{{ site.lc_pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.lc_post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://www.surveymonkey.co.uk/r/V87XVNJ">Post-workshop Survey Elixir</a></p>
 {% endif %}
 
 <hr/>
