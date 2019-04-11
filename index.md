@@ -562,5 +562,14 @@ please preview your site before committing, and make sure to run
   {% endcomment %}
 </div> {% comment %} End of 'Python' section. {% endcomment %}
 
-
+<div id="data">
+<h3>Data</h3>
+Some of the lessons are using example data. To follow along, please download and extract them to your machine before the course:
+<dl>
+  <dt>Programming in Python</dt>
+  <dd>Download the file <a href="http://swcarpentry.github.io/python-novice-gapminder/files/python-novice-gapminder-data.zip">python-novice-gapminder-data.zip</a> and extract it to a folder of your choice. You should end up with a new folder called <b>data</b>.</dd>
+  <dt>The Unix Shell</dt>
+  <dd>Download the file <a href="http://swcarpentry.github.io/shell-novice/data/data-shell.zip">data-shell.zip</a> and extract it to your Desktop. You should end up with a new folder called <b>data-shell</b> on your Desktop.</dd>
+</dl>
+</div>
 
